@@ -36,4 +36,4 @@ Nokshi Home wants to identify its most valuable customers and reduce churn among
 ## 🛠️ Tools and Tech Stack
 * **SQL Server (SSMS):** Data import, cleaning, deduplication (`ROW_NUMBER`), and randomized customer sampling.
 * **Python (Jupyter Notebook):** RFM calculation, customer scoring (`pandas`), and churn flagging.
-* **Power BI Desktop:** 3-page interactive dashboard using custom DAX measures and a custom JSON theme.
+* **Power BI Desktop:** 2-page interactive dashboard using custom DAX measures and a custom JSON theme.
